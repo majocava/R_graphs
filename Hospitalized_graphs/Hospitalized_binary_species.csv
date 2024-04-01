@@ -1,0 +1,64 @@
+﻿Source,Species,Presence
+BAL/TA,C. tropicalis,1
+BAL/TA,C. albicans,1
+BAL/TA,C. parapsilosis,1
+BAL/TA,C. glabrata,1
+BAL/TA,C. lusitaniae,0
+BAL/TA,C. dubliniensis,1
+BAL/TA,C. krusei,0
+BAL/TA,C. orthopsilosis,0
+BAL/TA,C. rugosa,0
+Blood,C. tropicalis,1
+Blood,C. albicans,1
+Blood,C. parapsilosis,1
+Blood,C. glabrata,1
+Blood,C. lusitaniae,1
+Blood,C. dubliniensis,0
+Blood,C. krusei,0
+Blood,C. orthopsilosis,1
+Blood,C. rugosa,1
+CSF,C. tropicalis,0
+CSF,C. albicans,1
+CSF,C. parapsilosis,0
+CSF,C. glabrata,0
+CSF,C. lusitaniae,0
+CSF,C. dubliniensis,0
+CSF,C. krusei,0
+CSF,C. orthopsilosis,0
+CSF,C. rugosa,0
+Injury,C. tropicalis,1
+Injury,C. albicans,1
+Injury,C. parapsilosis,1
+Injury,C. glabrata,0
+Injury,C. lusitaniae,0
+Injury,C. dubliniensis,0
+Injury,C. krusei,0
+Injury,C. orthopsilosis,0
+Injury,C. rugosa,0
+Peritoneal Wash,C. tropicalis,1
+Peritoneal Wash,C. albicans,1
+Peritoneal Wash,C. parapsilosis,0
+Peritoneal Wash,C. glabrata,0
+Peritoneal Wash,C. lusitaniae,0
+Peritoneal Wash,C. dubliniensis,0
+Peritoneal Wash,C. krusei,0
+Peritoneal Wash,C. orthopsilosis,0
+Peritoneal Wash,C. rugosa,0
+Sputum,C. tropicalis,1
+Sputum,C. albicans,1
+Sputum,C. parapsilosis,0
+Sputum,C. glabrata,0
+Sputum,C. lusitaniae,0
+Sputum,C. dubliniensis,0
+Sputum,C. krusei,0
+Sputum,C. orthopsilosis,0
+Sputum,C. rugosa,0
+Urine,C. tropicalis,1
+Urine,C. albicans,1
+Urine,C. parapsilosis,1
+Urine,C. glabrata,1
+Urine,C. lusitaniae,1
+Urine,C. dubliniensis,0
+Urine,C. krusei,1
+Urine,C. orthopsilosis,0
+Urine,C. rugosa,0

@@ -1,0 +1,27 @@
+Source,Species,Number
+BAL/TA,C. albicans,17
+BAL/TA,C. tropicalis,14
+BAL/TA,C. parapsilosis,3
+BAL/TA,C. glabrata,1
+BAL/TA,C. dubliniensis,1
+Blood,C. albicans,4
+Blood,C. tropicalis,1
+Blood,C. parapsilosis,10
+Blood,C. glabrata,3
+Blood,C. lusitaniae,1
+Blood,C. orthopsilosis,1
+Blood,C. rugosa,1
+CSF,C. albicans,1
+Injury,C. albicans,3
+Injury,C. tropicalis,2
+Injury,C. parapsilosis,2
+Peritoneal Wash,C. albicans,2
+Peritoneal Wash,C. tropicalis,1
+Sputum,C. albicans,3
+Sputum,C. tropicalis,2
+Urine,C. albicans,10
+Urine,C. tropicalis,21
+Urine,C. parapsilosis,2
+Urine,C. glabrata,1
+Urine,C. lusitaniae,1
+Urine,C. krusei,1
