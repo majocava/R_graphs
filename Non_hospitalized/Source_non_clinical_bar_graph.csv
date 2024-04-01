@@ -1,0 +1,18 @@
+﻿Source,Species,Number
+BAL/TA,C. albicans,2
+BAL/TA,C. tropicalis,1
+Injury,C. albicans,5
+Injury,C. parapsilosis,4
+Injury,C. tropicalis,1
+Injury,C. krusei,1
+Injury,C. haemulonii,1
+Injury,C. pelliculosa,1
+Sputum,C. albicans,2
+Urine,C. albicans,9
+Urine,C. parapsilosis,1
+Urine,C. tropicalis,6
+Urine,C. glabrata,2
+Urine,C. krusei,1
+Urine,C. kefyr,1
+Vaginal Swab,C. albicans,6
+Vaginal Swab,C. glabrata,2
