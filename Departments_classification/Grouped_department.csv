@@ -1,0 +1,111 @@
+﻿Departments,Species,Number,Percentage_total,Percentage_per_department
+Critical Care,C. albicans,35,18.32,51.5
+Critical Care,C. dubliniensis,1,0.52,1.5
+Critical Care,C. glabrata,3,1.57,4.4
+Critical Care,C. haemulonii,0,0.00,0
+Critical Care,C. kefyr,0,0.00,0
+Critical Care,C. krusei,2,1.05,2.9
+Critical Care,C. lusitaniae,2,1.05,2.9
+Critical Care,C. parapsilosis,6,3.14,8.8
+Critical Care,C. pelliculosa,0,0.00,0
+Critical Care,C. rugosa,1,0.52,
+Critical Care,C. tropicalis,19,9.95,27.9
+Emergency,C. albicans,4,2.09,40
+Emergency,C. dubliniensis,0,0.00,0
+Emergency,C. glabrata,3,1.57,30
+Emergency,C. haemulonii,0,0.00,0
+Emergency,C. kefyr,0,0.00,0
+Emergency,C. krusei,0,0.00,0
+Emergency,C. lusitaniae,0,0.00,0
+Emergency,C. parapsilosis,1,0.52,10
+Emergency,C. pelliculosa,0,0.00,0
+Emergency,C. rugosa,0,0.00,
+Emergency,C. tropicalis,2,1.05,20
+Medicine,C. albicans,18,9.42,41.9
+Medicine,C. dubliniensis,0,0.00,0
+Medicine,C. glabrata,6,3.14,14
+Medicine,C. haemulonii,1,0.52,2.3
+Medicine,C. kefyr,0,0.00,0
+Medicine,C. krusei,0,0.00,0
+Medicine,C. lusitaniae,0,0.00,0
+Medicine,C. parapsilosis,5,2.62,11.6
+Medicine,C. pelliculosa,1,0.52,2.3
+Medicine,C. rugosa,0,0.00,
+Medicine,C. tropicalis,12,6.28,27.9
+Neurology,C. albicans,0,0.00,0
+Neurology,C. dubliniensis,0,0.00,0
+Neurology,C. glabrata,0,0.00,0
+Neurology,C. haemulonii,0,0.00,0
+Neurology,C. kefyr,0,0.00,0
+Neurology,C. krusei,0,0.00,0
+Neurology,C. lusitaniae,0,0.00,0
+Neurology,C. parapsilosis,1,0.52,50
+Neurology,C. pelliculosa,0,0.00,0
+Neurology,C. rugosa,0,0.00,
+Neurology,C. tropicalis,1,0.52,50
+Observational Medicine,C. albicans,9,4.71,64.3
+Observational Medicine,C. dubliniensis,0,0.00,0
+Observational Medicine,C. glabrata,0,0.00,0
+Observational Medicine,C. haemulonii,0,0.00,0
+Observational Medicine,C. kefyr,0,0.00,0
+Observational Medicine,C. krusei,0,0.00,0
+Observational Medicine,C. lusitaniae,0,0.00,0
+Observational Medicine,C. parapsilosis,0,0.00,0
+Observational Medicine,C. pelliculosa,0,0.00,0
+Observational Medicine,C. rugosa,0,0.00,
+Observational Medicine,C. tropicalis,5,2.62,35.7
+Oncology,C. albicans,1,0.52,100
+Oncology,C. dubliniensis,0,0.00,0
+Oncology,C. glabrata,0,0.00,0
+Oncology,C. haemulonii,0,0.00,0
+Oncology,C. kefyr,0,0.00,0
+Oncology,C. krusei,0,0.00,0
+Oncology,C. lusitaniae,0,0.00,0
+Oncology,C. parapsilosis,0,0.00,0
+Oncology,C. pelliculosa,0,0.00,0
+Oncology,C. rugosa,0,0.00,
+Oncology,C. tropicalis,0,0.00,0
+Pediatrics,C. albicans,2,1.05,40
+Pediatrics,C. dubliniensis,0,0.00,0
+Pediatrics,C. glabrata,0,0.00,0
+Pediatrics,C. haemulonii,0,0.00,0
+Pediatrics,C. kefyr,0,0.00,0
+Pediatrics,C. krusei,0,0.00,0
+Pediatrics,C. lusitaniae,0,0.00,0
+Pediatrics,C. parapsilosis,3,1.57,60
+Pediatrics,C. pelliculosa,0,0.00,0
+Pediatrics,C. rugosa,0,0.00,
+Pediatrics,C. tropicalis,0,0.00,0
+Surgery,C. albicans,26,13.61,83.9
+Surgery,C. dubliniensis,0,0.00,0
+Surgery,C. glabrata,1,0.52,3.2
+Surgery,C. haemulonii,0,0.00,0
+Surgery,C. kefyr,1,0.52,3.2
+Surgery,C. krusei,0,0.00,0
+Surgery,C. lusitaniae,0,0.00,0
+Surgery,C. parapsilosis,1,0.52,3.2
+Surgery,C. pelliculosa,0,0.00,0
+Surgery,C. rugosa,0,0.00,
+Surgery,C. tropicalis,2,1.05,6.5
+Urology,C. albicans,2,1.05,28.6
+Urology,C. dubliniensis,0,0.00,0
+Urology,C. glabrata,0,0.00,0
+Urology,C. haemulonii,0,0.00,0
+Urology,C. kefyr,0,0.00,0
+Urology,C. krusei,0,0.00,0
+Urology,C. lusitaniae,1,0.52,14.3
+Urology,C. parapsilosis,1,0.52,14.3
+Urology,C. pelliculosa,0,0.00,0
+Urology,C. rugosa,0,0.00,0
+Urology,C. tropicalis,3,1.57,42.9
+Women's Health,C. albicans,5,2.62,55.6
+Women's Health,C. dubliniensis,0,0.00,0
+Women's Health,C. glabrata,1,0.52,11.1
+Women's Health,C. haemulonii,0,0.00,0
+Women's Health,C. kefyr,0,0.00,0
+Women's Health,C. krusei,1,0.52,11.1
+Women's Health,C. lusitaniae,0,0.00,0
+Women's Health,C. parapsilosis,1,0.52,11.1
+Women's Health,C. pelliculosa,0,0.00,0
+Women's Health,C. rugosa,0,0.00,0
+Women's Health,C. tropicalis,1,0.52,11.1
